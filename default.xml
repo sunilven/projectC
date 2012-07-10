@@ -3,7 +3,12 @@
 	<remote fetch="https://github.com" name="origin"/>
 	<default revision="master" remote="origin"/>
 
-	<project name="sunilven/projectA" remote="origin" path="projA" revision="branch1"/>
-	<project name="sunilven/projectB" remote="origin" path="projB"/>
+	<project name="sunilven/projectA" remote="origin" path="projA/master" />
+	<project name="sunilven/projectA" remote="origin" path="projA/branch1" revision="branch1"/>
+	<project name="sunilven/projectA" remote="origin" path="projA/branch2" revision="branch2"/>
+	<project name="sunilven/projectB" remote="origin" path="projB/master"/>
+	<project name="sunilven/projectB" remote="origin" path="projA/branch1" revision="branchA"/>
+	<project name="sunilven/projectB" remote="origin" path="projA/branch2" revision="branchB"/>
+	<project name="sunilven/projectB" remote="origin" path="projA/branch3" revision="branchC"/>
 
 </manifest>
