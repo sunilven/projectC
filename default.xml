@@ -5,6 +5,6 @@
 
 	<project name="sunilven/projectA" remote="origin" path="projA" revision="branch1"/>
 	<project name="sunilven/projectB" remote="origin" path="projB"/>
-
+	<project name="sunilven/EE450" path="EE450"/>
 
 </manifest>
