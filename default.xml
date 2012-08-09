@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
-	<remote fetch="https://github.com" name="origin" review="https://github.com"/>
+	<remote fetch="https://github.com" name="origin"/>
 	<default revision="master" remote="origin"/>
 
 	<project name="sunilven/projectA" remote="origin" path="projA" revision="branch1"/>
