@@ -4,7 +4,7 @@
 	<default revision="master" remote="origin"/>
 
 	<project name="sunilven/projectA" remote="origin" path="projA" revision="branch1"/>
-	<project name="sunilven/projectB" remote="origin" path="projB"/>
+	<project name="sunilven/projectB" remote="origin" path="projB" revision="0efc1494f812768f33e3eb0487eb6f893b60e6d2"/>
 	<project name="sunilven/EE450" path="EE450"/>
 
 </manifest>
